@@ -31,7 +31,7 @@ export default function Header() {
           href="tel:+919876543210"
           className="hidden md:block bg-green-700 text-white px-5 py-2 rounded-md"
         >
-          +91 98765 43210
+          +91 96311 50473
         </a>
 
         {/* Mobile Hamburger */}
