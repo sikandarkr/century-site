@@ -18,8 +18,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
-        <Header />
-        {children}
+        <h1>Something went wrong</h1>
+        {/* <Header />
+        {children} */}
       </body>
     </html>
   );
